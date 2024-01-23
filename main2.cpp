@@ -14,7 +14,7 @@ int main(){
         if(x==false)cout<<i<<endl;
     }
 
-    while (true) {}
+//    while (true) {}
 
 
     return 0;
